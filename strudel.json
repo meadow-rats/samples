@@ -1,4 +1,5 @@
 {
-"phone": "https://raw.githubusercontent.com/meadow-rats/samples/main/phone-ringing.mp3"
-"gong_np": "https://raw.githubusercontent.com/meadow-rats/samples/main/gong-hit-percussion.wav"
+  "_base": "https://raw.githubusercontent.com/meadow-rats/samples/main/",
+"phone": "weirdr/phone-ringing.mp3"
+"gong_np": "percussion/gong-hit-percussion.wav"
 }
