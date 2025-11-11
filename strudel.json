@@ -1,29 +1,30 @@
 {
-    "samples": {
-        "bump": "earthbound/bump.mp3",
-        "deirdre": [
-            {
-                "note": 63,
-                "url": "earthbound/deirdre_63.wav"
-            }
-        ],
-        "giygas": [
-            {
-                "note": 70,
-                "url": "earthbound/giygas%20breath_70.wav"
-            }
-        ],
-        "strings": [
-            {
-                "note": 83,
-                "url": "earthbound/strings_83.wav"
-            }
-        ],
-        "trumpet_1": [
-            {
-                "note": 76,
-                "url": "earthbound/trumpet%201_76.wav"
-            }
-        ]
-    }
+  "_base": "https://raw.githubusercontent.com/meadow-rats/samples/main/",
+  "samples": {
+    "bump": "earthbound/bump.mp3",
+    "deirdre": [
+      {
+        "note": 63,
+        "url": "earthbound/deirdre_63.wav"
+      }
+    ],
+    "giygas": [
+      {
+        "note": 70,
+        "url": "earthbound/giygas%20breath_70.wav"
+      }
+    ],
+    "strings": [
+      {
+        "note": 83,
+        "url": "earthbound/strings_83.wav"
+      }
+    ],
+    "trumpet_1": [
+      {
+        "note": 76,
+        "url": "earthbound/trumpet%201_76.wav"
+      }
+    ]
+  }
 }
