@@ -1,8 +1,17 @@
 {
-  "_base": "https://raw.githubusercontent.com/meadow-rats/samples/main/",
-  "bump": "earthbound/bump.mp3"
-  "deirdre": "earthbound/deirdre_63.wav"
-  "giygas_breath": "earthbound/giygas_breath_70.wav"
-  "strings_83": "earthbound/strings_83.wav"
-  "trumpet_1": "earthbound/trumpet 1_76.wav"  
+    "samples": {
+        "bump": "earthbound/bump.mp3",
+        "deirdre": {
+            "63": "earthbound/deirdre_63.wav"
+        },
+        "giygas": {
+            "70": "earthbound/giygas%20breath_70.wav"
+        },
+        "strings": {
+            "83": "earthbound/strings_83.wav"
+        },
+        "trumpet_1": {
+            "76": "earthbound/trumpet%201_76.wav"
+        }
+    }
 }
