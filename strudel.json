@@ -1,7 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/meadow-rats/samples/main/",
   "bump": "earthbound/bump.mp3",
-  "deirdre": {"D#4": "earthbound/deirdre.wav"},
+  "deirdre": {"D#4": "earthbound/deirdre_v2.wav"},
   "giygas": {"A#4": "earthbound/giygas_breath_70.wav"},
   "strings":{"B5": "earthbound/strings_83.wav"},
   "trumpet_1": {"E5": "earthbound/trumpet%201_76.wav"}
